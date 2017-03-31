@@ -7,3 +7,11 @@
 <img src= 'https://github.com/alexanderharrington/Shoot-EmUp/blob/master/ShootEmUp/start.PNG' width = '250px' >
 <img src= 'https://github.com/alexanderharrington/Shoot-EmUp/blob/master/ShootEmUp/game.PNG'  width = '250px' >
 <img src= 'https://github.com/alexanderharrington/Shoot-EmUp/blob/master/ShootEmUp/end.PNG'   width = '250px' >
+
+<h4>Resouces</h4>
+
+<a>  http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame Pygame Wheel File </a>
+
+
+
+<a>  https://youtu.be/_GikMdhAhv0 Pygame Install </a>
